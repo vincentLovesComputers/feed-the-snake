@@ -1,7 +1,7 @@
 # Snake Game
 
-classic snake game made in java
-##### Video on YouTube [youtube/pong](https://youtu.be/pmFOGbBPBe8)
+Classic snake game made in java
+##### Video on YouTube [youtube/snake](https://www.youtube.com/watch?v=fPJEFJQDgHc)
 
 ### Clone from github
 
